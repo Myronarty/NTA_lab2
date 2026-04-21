@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NTA_lab2/NTA_lab2.vcxproj" Id="b62c69f2-c7d9-4561-a8a1-e5c756a1e75a" />
+</Solution>
