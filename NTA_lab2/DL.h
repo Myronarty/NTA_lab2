@@ -1,7 +1,8 @@
 #pragma once
 #include <Func_names.h>
+#include <algorithm>
 
-uint64_t KTO(vector<uint64_t>& x, vector<uint64_t>& y, vector<uint64_t>& t);
+uint64_t KTO(vector<uint64_t>& x, vector<uint64_t>& t);
 
 uint64_t Gorn(uint64_t a, uint64_t b, uint64_t n);
 
